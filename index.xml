@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blogs by nick</title>
+    <link>https://sielicki.github.io/</link>
+    <description>Recent content on blogs by nick</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 26 Mar 2020 23:11:00 -0600</lastBuildDate><atom:link href="https://sielicki.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Playing around with autovectorization</title>
+      <link>https://sielicki.github.io/posts/playing-around-with-autovectorization/</link>
+      <pubDate>Thu, 26 Mar 2020 23:11:00 -0600</pubDate>
+      
+      <guid>https://sielicki.github.io/posts/playing-around-with-autovectorization/</guid>
+      <description>It all started with a a message on the Houston Linux User Group (HLUG) discord:</description>
+    </item>
+    
+    <item>
+      <title>about me!</title>
+      <link>https://sielicki.github.io/about/</link>
+      <pubDate>Mon, 23 Mar 2020 17:34:56 -0500</pubDate>
+      
+      <guid>https://sielicki.github.io/about/</guid>
+      <description>what&amp;rsquo;s up!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sielicki.github.io/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sielicki.github.io/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>keybase.io proof</title>
+      <link>https://sielicki.github.io/posts/keybase-io-proof/</link>
+      <pubDate>Tue, 01 May 2018 17:12:00 -0500</pubDate>
+      
+      <guid>https://sielicki.github.io/posts/keybase-io-proof/</guid>
+      <description>Ties this blog to keybase.io, don&amp;rsquo;t read this one.</description>
+    </item>
+    
+    <item>
+      <title>repurposing old radio scanners to make receive only aprs igates</title>
+      <link>https://sielicki.github.io/posts/radio-scanner-aprs-igate/</link>
+      <pubDate>Tue, 24 Apr 2018 15:41:00 -0500</pubDate>
+      
+      <guid>https://sielicki.github.io/posts/radio-scanner-aprs-igate/</guid>
+      <description>Old scanners ain&amp;rsquo;t useless, yet.</description>
+    </item>
+    
+    <item>
+      <title>google hangouts chrome extension on gnome 3.26/fedora 27</title>
+      <link>https://sielicki.github.io/posts/google-hangouts-fedora-27/</link>
+      <pubDate>Sun, 12 Nov 2017 23:11:00 -0600</pubDate>
+      
+      <guid>https://sielicki.github.io/posts/google-hangouts-fedora-27/</guid>
+      <description>how to get a tray icon for Google Hangouts, and have it autostart on login, and use native notifications.</description>
+    </item>
+    
+  </channel>
+</rss>

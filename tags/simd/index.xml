@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>simd on blogs by nick</title>
+    <link>https://sielicki.github.io/tags/simd/</link>
+    <description>Recent content in simd on blogs by nick</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 26 Mar 2020 23:11:00 -0600</lastBuildDate><atom:link href="https://sielicki.github.io/tags/simd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Playing around with autovectorization</title>
+      <link>https://sielicki.github.io/posts/playing-around-with-autovectorization/</link>
+      <pubDate>Thu, 26 Mar 2020 23:11:00 -0600</pubDate>
+      
+      <guid>https://sielicki.github.io/posts/playing-around-with-autovectorization/</guid>
+      <description>It all started with a a message on the Houston Linux User Group (HLUG) discord:</description>
+    </item>
+    
+  </channel>
+</rss>

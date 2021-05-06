@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on blogs by nick</title>
+    <link>https://sielicki.github.io/tags/</link>
+    <description>Recent content in Tags on blogs by nick</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 26 Mar 2020 23:11:00 -0600</lastBuildDate><atom:link href="https://sielicki.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>compilers</title>
+      <link>https://sielicki.github.io/tags/compilers/</link>
+      <pubDate>Thu, 26 Mar 2020 23:11:00 -0600</pubDate>
+      
+      <guid>https://sielicki.github.io/tags/compilers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>simd</title>
+      <link>https://sielicki.github.io/tags/simd/</link>
+      <pubDate>Thu, 26 Mar 2020 23:11:00 -0600</pubDate>
+      
+      <guid>https://sielicki.github.io/tags/simd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ham</title>
+      <link>https://sielicki.github.io/tags/ham/</link>
+      <pubDate>Tue, 24 Apr 2018 15:41:00 -0500</pubDate>
+      
+      <guid>https://sielicki.github.io/tags/ham/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fedora</title>
+      <link>https://sielicki.github.io/tags/fedora/</link>
+      <pubDate>Sun, 12 Nov 2017 23:11:00 -0600</pubDate>
+      
+      <guid>https://sielicki.github.io/tags/fedora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gnome</title>
+      <link>https://sielicki.github.io/tags/gnome/</link>
+      <pubDate>Sun, 12 Nov 2017 23:11:00 -0600</pubDate>
+      
+      <guid>https://sielicki.github.io/tags/gnome/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
